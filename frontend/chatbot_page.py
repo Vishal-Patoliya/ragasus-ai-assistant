@@ -1,6 +1,6 @@
 import os
 import streamlit as st
-from backendLLamaIndex.core import run_llm
+from backendLangChain.core import run_llm
 
 def chatbot_page():
     st.title("RAGASUS - AI Assistant")

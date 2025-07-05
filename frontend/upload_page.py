@@ -1,7 +1,7 @@
 import os
 import shutil
 import streamlit as st
-from backendLLamaIndex.ingestion import ingest_docs
+from backendLangChain.ingestion import ingest_docs
 
 UPLOAD_DIR = "../uploaded_documents"
 
