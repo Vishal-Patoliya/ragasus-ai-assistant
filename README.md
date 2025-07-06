@@ -1,7 +1,7 @@
 # ragasus-ai-assistant
 RAGASUS is an AI-powered intelligent assistant designed to help you effortlessly understand and interact with your documents. 
 
-
+![Demo of the Ragasus](https://github.com/Vishal-Patoliya/ragasus-ai-assistant/blob/main/Ragasus.gif)
 ---
 
 ## 🧠 Features
